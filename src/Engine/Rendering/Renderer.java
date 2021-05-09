@@ -37,7 +37,7 @@ public class Renderer {
 
     public void render(ArrayList<TerrainWrapper> terrains){
         clear();
-        //checkResize();
+        checkResize();
         shaderProgram.bind();
         projectionMatrix = GameMath.calculateProjectionMatrix(camera.getFOV(),
                 (float)(window.width)/(float)(window.height), camera.getZNEAR(), camera.getZFAR());
