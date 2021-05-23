@@ -4,7 +4,7 @@ Sean Surtz
 ![](https://raw.githubusercontent.com/SurtzSean/ProceduralTerrain/master/projectresult.png)
 
 # Description
-	This program will procedurally generate 3D terrain based on player position
+	This program will procedurally generate 3D terrain as the player moves through the world using Simplex Noise.  It uses OpenGL ang GLFW bindings provided by LWJGL along with several other libraries mentioned in the resources section
 
 ## Note: 	
   This project probably WILL NOT WORK with Java SDK 16 - it gets an error with tools.jar.
