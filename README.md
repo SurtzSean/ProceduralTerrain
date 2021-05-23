@@ -1,7 +1,7 @@
 CIS 457 Final Project - Procedural Terrain
 Sean Surtz
 
-
+![](https://raw.githubusercontent.com/SurtzSean/ProceduralTerrain/master/projectresult.png)
 
 
 Description
