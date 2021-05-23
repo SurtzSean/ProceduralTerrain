@@ -1,19 +1,19 @@
-#CIS 457 Final Project - Procedural Terrain
+# CIS 457 Final Project - Procedural Terrain
 Sean Surtz
 
 ![](https://raw.githubusercontent.com/SurtzSean/ProceduralTerrain/master/projectresult.png)
 
 
-#Description
+# Description
 	This program will procedurally generate 3D terrain based on player position
 
-##Note: 	
+## Note: 	
   This project probably WILL NOT WORK with Java SDK 16 - it gets an error with tools.jar.
 	This has been tested using Java SDK JDK 15.
 	Make sure you have JDK 15 installed. (14 may work as well)
 	IntelliJ will likely already have multiple java SDKs.  To check, open IntelliJ and press FILE -> Project Structure and then under the Project Settings tab press Project and then click the Project SDK dropdown
 
-#To Run the Program:
+# To Run the Program:
 	1. Open IntelliJ
 	2. Click the file button in the top left corner of Intellij
 	3. Click Open
@@ -30,7 +30,7 @@ Sean Surtz
 	12. Then go to src -> Game -> RunGame.java, press the green arrow next to the main method
 	13. the program should run
 
-##Controls:
+## Controls:
 	Movement Controls:  
 	forward = W,
 	backward = S,
@@ -43,7 +43,7 @@ Sean Surtz
 	
 	as you move, more terrain will generate and terrains that are further away will be removed
 
-##Resources:
+## Resources:
 	LightWeight Java Game Library 3
 	PNGDecoder
 	Java OpenGL Math Library
