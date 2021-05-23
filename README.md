@@ -1,7 +1,8 @@
 CIS 457 Final Project - Procedural Terrain
 Sean Surtz
 
-![](https://i.imgur.com/pxMeI5k.mp4)
+
+
 
 Description
 	This program will procedurally generate 3D terrain based on player position
