@@ -17,8 +17,8 @@ public class TerrainManager {
     private int prevCamChunkX = -1;
     private int prevCamChunkZ = -1;
     private int camChunkX = 1;
-    private int camChunkZ = 1;private
-    FastNoiseLite fnl = new FastNoiseLite();
+    private int camChunkZ = 1;
+    private FastNoiseLite fnl = new FastNoiseLite();
     private LinkedHashMap<Vector2i, Terrain> terrainHashMap = new LinkedHashMap<Vector2i, Terrain>(){
         @Override
         protected boolean removeEldestEntry(final Map.Entry eldest) {
